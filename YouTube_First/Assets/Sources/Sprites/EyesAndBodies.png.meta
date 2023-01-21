@@ -1,0 +1,2869 @@
+fileFormatVersion: 2
+guid: b3f9371dddf01494d84603dd87e45744
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EyesAndBodies_0
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2153
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916ed1e47941e54188ed52d31a93fb7
+      internalID: -82769494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_2
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2150
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd40886a9f2da243b3101f21bb973de
+      internalID: 980569909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_4
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2152
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a8f5f9ba884f4285a56d5f9606a71
+      internalID: -187579012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_6
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2173
+        width: 123
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae29563622b3614194b487e28a782b9
+      internalID: -1528527224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2049
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ceda053090861428cedac4487e9304
+      internalID: -806706526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2046
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce53f4dcef42cca4eaeaa4e1196218c5
+      internalID: 615354549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2049
+        width: 110
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81426893e2d4a14898c5e3a60e3b52d
+      internalID: 728718814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_14
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2070
+        width: 140
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72488865eb820244b81a53aaad33fc2e
+      internalID: 1416676440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2007
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962818b9267c2a4ebcb00910dedcdb7
+      internalID: -969656638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2005
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173791734dc3cd49b0c11b79095b0db
+      internalID: 3092361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2008
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da3bb70c2e6774e83f87a4531a5fb7
+      internalID: 1469111828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1951
+        width: 117
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80f9c27eb3ad94a969e2b028785fb1
+      internalID: -244816988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_22
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1951
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e210b0886af704468d48af1f66aed30
+      internalID: 1779604857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_24
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1954
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d759021c3dae4ca2b7b818e4ea5f5
+      internalID: 1469328277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_26
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1932
+        width: 104
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029482b183babef408524ab7975cbc40
+      internalID: 383375009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1860
+        width: 120
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c9da8da55e02488fcedf8235a7647
+      internalID: 1005220160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_30
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1847
+        width: 123
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e5b548ee0e2e44e8b052746eca8e4e
+      internalID: 796026787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_32
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1848
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05824639c8abc4d891e574c3adb50a
+      internalID: 1884449992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_34
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1855
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa787291aed08744882471d68183281
+      internalID: 1574954124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_36
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1849
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cdcb14bb9787a4cb059d66c9b1b705
+      internalID: 1570024597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1743
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea19ff6d3105f4399f4dee4f80ee25
+      internalID: -838857658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1756
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b0f037904b734eb483ecbdb6b8373
+      internalID: -2019703304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1767
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765a0a1a45f961e4aa9f11572d1108da
+      internalID: -1926871001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_42
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1749
+        width: 117
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18403efb1cb261948b770ae5b6fcc294
+      internalID: 734019327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1753
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3b5b1f7f798cd43aeac0a9be807658
+      internalID: 709474805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_46
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1766
+        width: 116
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4978460508bbad439fc183839ff6357
+      internalID: -699027798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_48
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1768
+        width: 104
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe96b3c2de2be43b1f02c8284ce6c2
+      internalID: -203157533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_50
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1756
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e11b1730bc513f48b97cf933b42d1b9
+      internalID: 1102173374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1668
+        width: 102
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b008ecda7c3c2e4680231570cd8e4b0
+      internalID: -2114856076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_53
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1646
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d320daa1ef7e47b74cddb43753395
+      internalID: 1609062842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_55
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1650
+        width: 111
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9206697c6791448cd503d7344c1c9
+      internalID: 1679216996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_57
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1667
+        width: 116
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d7fb96bcfc434a990fc80ce39179b
+      internalID: -283891916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_59
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1675
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108b5cd50f333b468e1c5e59429c5dc
+      internalID: -807525031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1642
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcce9a14cca68141ad180ab1b629877
+      internalID: -1027263637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1633
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf9f4ef5320694f8aa84e9b1be5e4c
+      internalID: -1914900197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1636
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e11e8b34eb03f4aba83bade554606c
+      internalID: 324396519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_64
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1522
+        width: 147
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc10d76ebbe714787843b1d97f20c8
+      internalID: -429379420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_65
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1536
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f243650ee8e46c498f1dbfd1e72d7e5
+      internalID: 1376721181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_67
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1539
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72605144577af884ab3c43593948e44d
+      internalID: 938053391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_69
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1561
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd9085d11de474783bd7f7f4fa33c1
+      internalID: 465388546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_71
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1566
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378780e74ebef4f42805222fcb0b5d8a
+      internalID: -470107603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1544
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f7f879fdff7744a9b0b05007e9019
+      internalID: 2023962134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1530
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649f3ae5d2d5e1645aa13d89e56859c9
+      internalID: 1798338468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1534
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205fde7910138849925a122671e97dc
+      internalID: 1365182169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_76
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1430
+        width: 122
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ffc08dc04a8d54fbcf2e4cafa9f774
+      internalID: 220159612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_77
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1432
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802cb53da384c042bdbd05509a5e8f6
+      internalID: 1223559053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_79
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1436
+        width: 111
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e946bd1254334181a0756ce5209cd
+      internalID: 131541861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_81
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1462
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8c939427fb0948a14a8649bec5dd3
+      internalID: -1095105911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_83
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1469
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bab7428304e5438e06f8ba19a4419
+      internalID: 1667010512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1247
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff36a7e340a53947932abd2a50879b5
+      internalID: 2008963431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_87
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1239
+        width: 186
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8b6cbda323b646b4c08ed7c155780
+      internalID: 1285644676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_88
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1269
+        width: 153
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2232ed209ad6a4840bc79f144f57538c
+      internalID: -1828636049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_89
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1253
+        width: 169
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1db18d373d2fd74cb461853824943ea
+      internalID: 520641996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_90
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1254
+        width: 184
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff905adfc13381479e1352e231f87dc
+      internalID: -2134542466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_91
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1248
+        width: 173
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ceb66d69559143b4b2aeead0afa4b
+      internalID: -1396974639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_92
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1229
+        width: 172
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fdd1aa58fc6a944b34e337c60ec2b6
+      internalID: -1423160587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_93
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1229
+        width: 207
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9968a870dcd82f478922c5ae23344d1
+      internalID: -1950606780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_94
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1065
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1177cee75cf18ca4bb114703c73a30d2
+      internalID: 523846619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_95
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1045
+        width: 183
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0801ea86583d13549b91c833889b92c5
+      internalID: 1637723792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_96
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1056
+        width: 181
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c63a23799ab30148a5ef58ee286ea78
+      internalID: 1301585673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_97
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1063
+        width: 169
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35d00fa00ec3f41afdf2f65a53b845
+      internalID: -1329081608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_98
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1057
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb214818ae9794c98b1fb02481d51e
+      internalID: 985738100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_99
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1062
+        width: 232
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bfdd2651b102b43853db9e4f7a9861
+      internalID: 1771309388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_100
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1066
+        width: 198
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c1643acd48e4b42ac31eb2ec63a957
+      internalID: 701284910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_101
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 899
+        width: 185
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65829203147e5324e9b715d8bb0f8f50
+      internalID: -1997938926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 897
+        width: 208
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d742ca6241c343b0bc9a2b55c05ff
+      internalID: 918895268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_103
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 895
+        width: 212
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73cf00962d791a4c9b2e2d9a6e71eee
+      internalID: 195724233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_104
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 897
+        width: 208
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f493b0643bd8f9a489911d8a04353a26
+      internalID: 119219080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_105
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 887
+        width: 191
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7767b18f03b1b48ab98a1aefe19cf3
+      internalID: -803183498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_106
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 883
+        width: 172
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe59456ae643f4680014f1987b6773
+      internalID: -794879319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_107
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 901
+        width: 166
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c69be5f69b8c24fb322ff73f873a91
+      internalID: 396332097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_108
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 898
+        width: 153
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54128499669744ab0695415757c358
+      internalID: 1297082128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 775
+        width: 201
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9887e63adb689749b51c147e1476901
+      internalID: 992461071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_110
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 772
+        width: 201
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1cd59ceb4e2148bdf1bcf087e7a70
+      internalID: 581565630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 667
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646e6f24794aa447b0b39517b761f29
+      internalID: -1581166979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_112
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 775
+        width: 201
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14582d29e13a2049a17255c0b2323e8
+      internalID: -1334311186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_113
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 748
+        width: 191
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2cf1aed8f9774ab9eb609463146b6
+      internalID: 1026649345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_114
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 766
+        width: 168
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c64cb85d05bc2a498403714c728b7bf
+      internalID: 858749793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_115
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 750
+        width: 167
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b40cecb4ddafe4ea4d2a252325a945
+      internalID: 1608377181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_116
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 740
+        width: 206
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41956a91cba234997249fe6eb1596c
+      internalID: 2083123992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_117
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 721
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1e45c1ad71e545881bf08792dd7d3
+      internalID: -771113890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_118
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 665
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232d9e106209664ea1f66b9607a05a3
+      internalID: -1739408938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_119
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 659
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e043b0d04f8eb42909f819bc22e28d
+      internalID: -517245518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_120
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 662
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662238d12e52974d925939d4b8420a3
+      internalID: -234261405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_121
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 668
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe526fc6cacb747af4fcd1c74411e0
+      internalID: 307875551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_122
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 588
+        width: 191
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77013540daff28648860400c4ab4d153
+      internalID: 1874873994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_123
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 602
+        width: 169
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6ffed292fa6274294652e6baebad60
+      internalID: -1886204899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_124
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 550
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c396edc93ea63954ba0157f31bbd5ce3
+      internalID: -1891867175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_125
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 526
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c0fe1a6342d545958e0fe56a61584
+      internalID: 1242244920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_126
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 527
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f5f379ea1b8964d822ff052aebc091
+      internalID: -1807019454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_127
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 531
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9d772779b55c40a2628f69b3bd243
+      internalID: 1645658013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_128
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 536
+        width: 89
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bb57bf2e3fb54419f568bc2de766eb
+      internalID: 2087641143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_129
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 537
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96bddb71da440409b461531b9b3f60
+      internalID: -762717059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_130
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 451
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf9e552a9b0204790889839d899182
+      internalID: -16581554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_131
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 404
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf972966f2bcd104ea07b51a81757504
+      internalID: 1727373581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_132
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 404
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f94b87c7190c429492c463c048e3c
+      internalID: 2113480928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_133
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 405
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896885df2850c2c4d9996bb4b5a1c296
+      internalID: 1155654264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_134
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 405
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6474ba58d09d24296e2289f4e4fc0c
+      internalID: -722412300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_135
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 405
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc66bb3505b00740bef44b80648cefa
+      internalID: -1299013582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_137
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 274
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5625399868b8b4188855f4b62674d6
+      internalID: -887000866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 275
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c414a7b5a08eab46b44187d224314f9
+      internalID: 1993204873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_139
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 279
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4ec7207f0e4c4cb3d3dead2f2d93d
+      internalID: -2025858293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_140
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 284
+        width: 89
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1312bb222d5c42b642b1b74362ba4
+      internalID: 1728325087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_141
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 285
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09818b29d486e4eb310eac3920060f
+      internalID: 771444994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_142
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 266
+        width: 155
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299c6448373c9434191ee74d95ae03e2
+      internalID: -697828579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_143
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 267
+        width: 155
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8baa108ada444599c4d57b483dae4
+      internalID: -664465035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_144
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 266
+        width: 155
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea68dbd2ab8ff04a8227cd6a1082c6e
+      internalID: 1345348952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_145
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 184
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408113e2016645e489ea051da2116b79
+      internalID: -766110730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_146
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 124
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2325c0a7fdd072c40994a3ad6a5f1e15
+      internalID: 868205931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_147
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 183
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f821554753022a43ae3ea53cac937bf
+      internalID: 500622945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_148
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 176
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17175ae179376a14f874cae467e660e9
+      internalID: 1260228799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_149
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 193
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5f731e59177b4582a48965c77199c
+      internalID: 1994100328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_150
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 190
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3c9c2b07d2154eb30bf86696a0738
+      internalID: -395725059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_151
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 190
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7898acbc324a7944b4087d59cb2f43a
+      internalID: -893567789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_152
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 123
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269c1f1575876bb449dd7d38f0f7d5f4
+      internalID: -1257234250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_153
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 105
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8deaffc255bf46a614183150ca7c8
+      internalID: 1019707710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_154
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 101
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0fe250b1cb33a4893ae04a12a95320
+      internalID: 151786656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_155
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 117
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23700553e265b94faf5a9871d80b9d6
+      internalID: 1672762802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_156
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 136
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c75d1689b1926468c56a35891396eb
+      internalID: 1056253755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_157
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 136
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392321f059f8ef4428123b5bc6be27c4
+      internalID: -1964785292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_158
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 84
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25207b8960ea52149bc27705dd711a0a
+      internalID: 1144357532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesAndBodies_159
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 84
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb2cb8ea200f34e96184ef959f0d69
+      internalID: 1802136341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f226ff18ff3e8b24ea01609c4b6381cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EyesAndBodies_26: 383375009
+      EyesAndBodies_88: -1828636049
+      EyesAndBodies_138: 1993204873
+      EyesAndBodies_68: -11082583
+      EyesAndBodies_19: -244816988
+      EyesAndBodies_120: -234261405
+      EyesAndBodies_95: 1637723792
+      EyesAndBodies_77: 1223559053
+      EyesAndBodies_142: -697828579
+      EyesAndBodies_7: -1175554372
+      EyesAndBodies_1: -55490379
+      EyesAndBodies_72: -574578545
+      EyesAndBodies_141: 771444994
+      EyesAndBodies_71: -470107603
+      EyesAndBodies_121: 307875551
+      EyesAndBodies_118: -1739408938
+      EyesAndBodies_111: -1581166979
+      EyesAndBodies_45: -365287038
+      EyesAndBodies_149: 1994100328
+      EyesAndBodies_83: 1667010512
+      EyesAndBodies_92: -1423160587
+      EyesAndBodies_59: -807525031
+      EyesAndBodies_94: 523846619
+      EyesAndBodies_85: -1248900565
+      EyesAndBodies_13: 1463388624
+      EyesAndBodies_117: -771113890
+      EyesAndBodies_128: 2087641143
+      EyesAndBodies_39: -2019703304
+      EyesAndBodies_135: -1299013582
+      EyesAndBodies_78: -1300530695
+      EyesAndBodies_101: -1997938926
+      EyesAndBodies_86: 2008963431
+      EyesAndBodies_62: -1914900197
+      EyesAndBodies_148: 1260228799
+      EyesAndBodies_93: -1950606780
+      EyesAndBodies_14: 1416676440
+      EyesAndBodies_42: 734019327
+      EyesAndBodies_44: 709474805
+      EyesAndBodies_21: -116582963
+      EyesAndBodies_56: 1428022565
+      EyesAndBodies_116: 2083123992
+      EyesAndBodies_67: 938053391
+      EyesAndBodies_89: 520641996
+      EyesAndBodies_27: -258691699
+      EyesAndBodies_122: 1874873994
+      EyesAndBodies_102: 918895268
+      EyesAndBodies_144: 1345348952
+      EyesAndBodies_6: -1528527224
+      EyesAndBodies_16: -969656638
+      EyesAndBodies_90: -2134542466
+      EyesAndBodies_99: 1771309388
+      EyesAndBodies_32: 1884449992
+      EyesAndBodies_63: 324396519
+      EyesAndBodies_155: 1672762802
+      EyesAndBodies_38: -838857658
+      EyesAndBodies_134: -722412300
+      EyesAndBodies_43: -333062758
+      EyesAndBodies_48: -203157533
+      EyesAndBodies_50: 1102173374
+      EyesAndBodies_55: 1679216996
+      EyesAndBodies_130: -16581554
+      EyesAndBodies_33: -911728541
+      EyesAndBodies_133: 1155654264
+      EyesAndBodies_147: 500622945
+      EyesAndBodies_60: -565689922
+      EyesAndBodies_5: 945495786
+      EyesAndBodies_109: 992461071
+      EyesAndBodies_40: -1926871001
+      EyesAndBodies_145: -766110730
+      EyesAndBodies_113: 1026649345
+      EyesAndBodies_3: -337119057
+      EyesAndBodies_129: -762717059
+      EyesAndBodies_119: -517245518
+      EyesAndBodies_151: -893567789
+      EyesAndBodies_104: 119219080
+      EyesAndBodies_57: -283891916
+      EyesAndBodies_12: 728718814
+      EyesAndBodies_157: -1964785292
+      EyesAndBodies_22: 1779604857
+      EyesAndBodies_132: 2113480928
+      EyesAndBodies_97: -1329081608
+      EyesAndBodies_79: 131541861
+      EyesAndBodies_51: -2114856076
+      EyesAndBodies_136: -512115270
+      EyesAndBodies_110: 581565630
+      EyesAndBodies_20: -1423958025
+      EyesAndBodies_154: 151786656
+      EyesAndBodies_65: 1376721181
+      EyesAndBodies_107: 396332097
+      EyesAndBodies_140: 1728325087
+      EyesAndBodies_49: -103729724
+      EyesAndBodies_58: -1308873359
+      EyesAndBodies_75: 1365182169
+      EyesAndBodies_69: 465388546
+      EyesAndBodies_96: 1301585673
+      EyesAndBodies_123: -1886204899
+      EyesAndBodies_4: -187579012
+      EyesAndBodies_29: -1329638535
+      EyesAndBodies_106: -794879319
+      EyesAndBodies_105: -803183498
+      EyesAndBodies_131: 1727373581
+      EyesAndBodies_35: 1583025093
+      EyesAndBodies_139: -2025858293
+      EyesAndBodies_137: -887000866
+      EyesAndBodies_84: -1744133939
+      EyesAndBodies_150: -395725059
+      EyesAndBodies_28: 1005220160
+      EyesAndBodies_114: 858749793
+      EyesAndBodies_143: -664465035
+      EyesAndBodies_24: 1469328277
+      EyesAndBodies_0: -82769494
+      EyesAndBodies_31: 2038188039
+      EyesAndBodies_11: -1535080615
+      EyesAndBodies_2: 980569909
+      EyesAndBodies_41: -2055979693
+      EyesAndBodies_74: 1798338468
+      EyesAndBodies_158: 1144357532
+      EyesAndBodies_91: -1396974639
+      EyesAndBodies_47: -1230956587
+      EyesAndBodies_8: -806706526
+      EyesAndBodies_125: 1242244920
+      EyesAndBodies_76: 220159612
+      EyesAndBodies_34: 1574954124
+      EyesAndBodies_37: -880872257
+      EyesAndBodies_73: 2023962134
+      EyesAndBodies_127: 1645658013
+      EyesAndBodies_126: -1807019454
+      EyesAndBodies_30: 796026787
+      EyesAndBodies_115: 1608377181
+      EyesAndBodies_52: -367491534
+      EyesAndBodies_124: -1891867175
+      EyesAndBodies_80: 295841181
+      EyesAndBodies_82: 834704127
+      EyesAndBodies_53: 1609062842
+      EyesAndBodies_54: -643805213
+      EyesAndBodies_23: 1170259445
+      EyesAndBodies_17: 3092361
+      EyesAndBodies_98: 985738100
+      EyesAndBodies_64: -429379420
+      EyesAndBodies_66: 2069417262
+      EyesAndBodies_70: 1124504081
+      EyesAndBodies_81: -1095105911
+      EyesAndBodies_87: 1285644676
+      EyesAndBodies_103: 195724233
+      EyesAndBodies_108: 1297082128
+      EyesAndBodies_18: 1469111828
+      EyesAndBodies_146: 868205931
+      EyesAndBodies_100: 701284910
+      EyesAndBodies_152: -1257234250
+      EyesAndBodies_10: 615354549
+      EyesAndBodies_153: 1019707710
+      EyesAndBodies_159: 1802136341
+      EyesAndBodies_36: 1570024597
+      EyesAndBodies_46: -699027798
+      EyesAndBodies_61: -1027263637
+      EyesAndBodies_156: 1056253755
+      EyesAndBodies_9: -1709433619
+      EyesAndBodies_112: -1334311186
+      EyesAndBodies_25: 1514582085
+      EyesAndBodies_15: -1617903105
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
